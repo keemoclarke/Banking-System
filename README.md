@@ -1,8 +1,8 @@
 # Banking-System
 
-Another Project done at RUtgers Univeristy in Programming Methodology 1.
+Another Project done at Rutgers Univeristy in Programming Methodology 1.
 
-This program is a made up banking system that can suport any number of bank accounts, and should be able to create new accounts, deposit to an account, withdraw from an account, delete account, sort the accounts, or do inspection on one or all bank accounts.
+This program is a made up banking system that can support any number of bank accounts, and is able to create new accounts, deposit to an account, withdraw from an account, delete account, sort the accounts, or do inspection on one or all bank accounts.
 
 The main menu of program looks something like:
 

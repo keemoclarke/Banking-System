@@ -2,7 +2,8 @@
 //  main.cpp
 //  Programming Methodology 1 - Project (Banking System)
 //
-//  Created by Keemo Clarke on 3/15/17.
+//  Created by Keemo Clarke
+//  May 2017
 //  Section 01
 
 /* About: This is a banking system. User's job is to manage multiple bank accounts. Here, user can create new accounts, deposit to an account, withdraw from an account, delete account, sort the accounts, or do inspection on one or all bank accounts. The bank maintains a list of accounts. This list has to be available as long as the bank is in business.
